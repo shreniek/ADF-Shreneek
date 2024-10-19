@@ -1,0 +1,9 @@
+{
+	"name": "ADFshreneekv1",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc909aaa-d075-498d-8972-ad73b63ff2f8",
+		"tenantId": "e9bc7cea-0620-479a-940b-9cccee2ba9b8"
+	}
+}
